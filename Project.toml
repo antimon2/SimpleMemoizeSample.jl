@@ -3,6 +3,9 @@ uuid = "0044c0ac-a8d7-4685-97ff-5c727cd33ad2"
 authors = ["GOTOH Shunsuke <antimon2.me@gmail.com>"]
 version = "0.1.0"
 
+[deps]
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+
 [compat]
 julia = "1.0"
 
