@@ -1,0 +1,13 @@
+name = "SimpleMemoizeSample"
+uuid = "0044c0ac-a8d7-4685-97ff-5c727cd33ad2"
+authors = ["GOTOH Shunsuke <antimon2.me@gmail.com>"]
+version = "0.1.0"
+
+[compat]
+julia = "1.0"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
